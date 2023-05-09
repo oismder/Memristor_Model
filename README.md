@@ -1,2 +1,1 @@
-# 1
-1
+# Verilog-A Compact Model for Memristor
